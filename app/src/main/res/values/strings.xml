@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ProjectDemo</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="invitation_title">Share Best Motivational Stories</string>
+    <string name="invitation_message">Get inspired and motivated in your life with Best Motivational Stories</string>
+    <string name="invitation_deep_link">http://play.google.com/store/apps/details?id=com.thanhcs.motivationstories</string>
+    <string name="invitation_custom_image">https://3.bp.blogspot.com/-dwos2Yo2gos/WQW1pzxIG1I/AAAAAAAAcBQ/o_JQknFaIJkZAROPWQutftEf4uyuWcIqQCLcB/s640/motivaionalbanner.png</string>
+    <string name="invitation_cta">Get it free!</string>
+</resources>
